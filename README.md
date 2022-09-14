@@ -1,3 +1,3 @@
 # StuyCS
 
-This is a repo for StuyCS
+This is a repo for StuyCS.
